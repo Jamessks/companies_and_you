@@ -74,3 +74,7 @@ Authenticated users may:
 
 Ideally for a larger scale project, it would be better if a dedicated search engine was used to handle search requests for http://127.0.0.1:8000/search
 like Laravel Scout, which is used specifically in laravel projects, or ElasticSearch and many others that are available.
+
+# Todo
+
+Dockerize the project and make setup seemless with sail
