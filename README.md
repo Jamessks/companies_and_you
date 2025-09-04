@@ -77,4 +77,4 @@ like Laravel Scout, which is used specifically in laravel projects, or ElasticSe
 
 # Todo
 
-Dockerize the project and make setup seemless with sail
+Dockerize the project and make setup seemless with Laravel sail
