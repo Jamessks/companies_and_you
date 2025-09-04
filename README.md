@@ -54,7 +54,7 @@ to run available unit tests with PHPUnit
 Unauthenticated users may:
 
 -   navigate to home page http://127.0.0.1:8000
--   navigate to search page http://127.0.0.1:8000/search and look by company name (full text search)
+-   navigate to search page http://127.0.0.1:8000/search and lookup by company name (full text search)
 -   navigate to all companies browsing page http://127.0.0.1:8000/all-companies
 -   navigate to http://127.0.0.1:8000/login and login as a registered user
 -   navigate to http://127.0.0.1:8000/register to create a new account
