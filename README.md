@@ -72,5 +72,5 @@ Authenticated users may:
 
 # Considerations
 
-Ideally for a bigger scale project, it would be better if a dedicated search engine was used to handle search requests for http://127.0.0.1:8000/search
-like Laravel Scout, which specifically targets laravel projects, or ElasticSearch and many others that are available.
+Ideally for a larger scale project, it would be better if a dedicated search engine was used to handle search requests for http://127.0.0.1:8000/search
+like Laravel Scout, which is used specifically in laravel projects, or ElasticSearch and many others that are available.
